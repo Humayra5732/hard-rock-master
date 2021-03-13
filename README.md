@@ -11,3 +11,5 @@ example: https://api.lyrics.ovh/v1/Adele/Hello
 # hard-rock-master
 # hard-rock-master
 # hard-rock-master
+
+#live site : https://humayra5732.github.io/hard-rock-master/
